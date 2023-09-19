@@ -1,0 +1,3 @@
+https://share.streamlit.io/bhaswatiroy/medical-predictions-streamlit-web-app/main/app.py
+
+Open the given link in your browser to access the web app
